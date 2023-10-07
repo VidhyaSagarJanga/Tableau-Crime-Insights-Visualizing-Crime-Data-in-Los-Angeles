@@ -1,1 +1,2 @@
 # Tableau-Crime-Insights-Visualizing-Crime-Data-in-Los-Angeles
+This project explores a comprehensive dataset of crime data in Los Angeles spanning from 2020 to the 2023. Through Tableau visualizations, the project examines crime patterns, including crime distribution by area, investigation status, monthly variations, weapon usage, and top crime categories. These visualizations provide insights for law enforcement, policymakers, and researchers, aiding in resource allocation, targeted interventions, and improved crime prevention strategies in Los Angeles.
